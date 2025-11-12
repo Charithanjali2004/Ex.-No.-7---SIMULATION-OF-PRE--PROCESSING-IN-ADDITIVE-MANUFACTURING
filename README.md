@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1907" height="1028" alt="Screenshot 2025-11-12 160506" src="https://github.com/user-attachments/assets/12c6cd58-427d-42fd-bc96-3948e835ef11" />
+
+
+### Name:Kanamarlapudi Sai Charithanjali
+### Register Number:212224240069
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
